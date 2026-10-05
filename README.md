@@ -1,2 +1,2 @@
-# AI-Powered_Habit_Tracker.github.io
+# AI-Powered_Habit_Tracker
 Habit Tracker
